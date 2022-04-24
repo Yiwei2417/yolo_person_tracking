@@ -1,4 +1,3 @@
 # yolo_person_tracking
 
-Try train our image set with this notebook
-https://colab.research.google.com/drive/1onQw9jlk8RmRxpwvDYFsiWXFvdjyy5ua#scrollTo=7VdBDlzQf0jN
+The fine tune and evaluation process can be reproduce in the demo.ipunb
